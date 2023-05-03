@@ -10,9 +10,9 @@
 
 ### 링크 모음
 
-    [🗂️ 공유드라이브](https://drive.google.com/drive/folders/1AdD_T1ztcunTaEezRSfJ02i-lWH2PgCf?usp=sharing)
+[🗂️ 공유드라이브](https://drive.google.com/drive/folders/1AdD_T1ztcunTaEezRSfJ02i-lWH2PgCf?usp=sharing)
 
-    [🗒️ 스터디노션](https://www.notion.so/e61dd97c43994d67b5c6c8e6bcc4437a)
+[🗒️ 스터디노션](https://www.notion.so/e61dd97c43994d67b5c6c8e6bcc4437a)
 
 
 3. 커밋컨벤션
