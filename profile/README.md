@@ -1,19 +1,19 @@
 # 스터디 메인페이지
 
-
 ![image](https://user-images.githubusercontent.com/68121478/235938311-35db1baf-1855-443b-9ccc-aa839e7edb4e.png)
-
-1. dev-FE, dev-BE 로 나눠서 작업
-
-2. 브랜치는 develope에서 feature로 뻗어나가기
-
 
 ### 링크 모음
 
 [🗂️ 공유드라이브](https://drive.google.com/drive/folders/1AdD_T1ztcunTaEezRSfJ02i-lWH2PgCf?usp=sharing)
 
+
 [🗒️ 스터디노션](https://www.notion.so/e61dd97c43994d67b5c6c8e6bcc4437a)
 
+
+
+1. dev-FE, dev-BE 로 나눠서 작업
+
+2. 브랜치는 develope에서 feature로 뻗어나가기
 
 3. 커밋컨벤션
 
