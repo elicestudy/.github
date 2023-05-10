@@ -1,6 +1,7 @@
 # 스터디 메인페이지
+![image](https://github.com/elicestudy/.github/assets/68121478/8b634a08-e904-456c-80fe-f672c4c44a0b)
+![image](https://github.com/elicestudy/.github/assets/68121478/01c5d2f3-60aa-4043-9e13-e4ce3f1f7846)
 
-![image](https://user-images.githubusercontent.com/68121478/235938311-35db1baf-1855-443b-9ccc-aa839e7edb4e.png)
 
 ### 링크 모음
 
