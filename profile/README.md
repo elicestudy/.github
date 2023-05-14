@@ -5,12 +5,21 @@
 
 ### 링크 모음
 
+ 
+[🖥️배포서버](http://34.22.92.138:8000/)
+
+
 [🗂️ 공유드라이브](https://drive.google.com/drive/folders/1AdD_T1ztcunTaEezRSfJ02i-lWH2PgCf?usp=sharing)
 
 
-[🗒️ 스터디노션](https://www.notion.so/e61dd97c43994d67b5c6c8e6bcc4437a)
+[🗒️ 스터디노션](https://www.notion.so/elice/0619734b36964c85a1f5798d9bd57965)
 
 
+[🖌️ 피그마](https://www.figma.com/file/6Wz6Ao0nW3LDCnIb8cfsko/%EB%BF%85%EB%BF%85%EB%8B%A8%EC%96%B4%EC%9E%A5?type=design&node-id=0-1&t=RcZMiTujoveCCrgm-0)
+
+[🛖 게더타운](https://app.gather.town/app/KGL8z7B9WeZhTC4i/EliceStudy01)
+
+[✅ API 명세서](https://docs.google.com/spreadsheets/d/1fwgwosactUmB7pAXy2HWyD43nsgjrAoS6b2QZFLyKJc/edit#gid=0)
 
 1. dev-FE, dev-BE 로 나눠서 작업
 
