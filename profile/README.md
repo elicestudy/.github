@@ -6,7 +6,7 @@
 ### 링크 모음
 
  
-[🖥️배포서버](http://34.22.92.138:8000/)
+[🖥️배포서버](http://34.64.252.0:8000/)
 
 
 [🗂️ 공유드라이브](https://drive.google.com/drive/folders/1AdD_T1ztcunTaEezRSfJ02i-lWH2PgCf?usp=sharing)
